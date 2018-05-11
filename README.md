@@ -3,7 +3,7 @@ WORK-IN-PROGRESS / DRAFT - WORK-IN-PROGRESS / DRAFT - WORK-IN-PROGRESS / DRAFT
 
 # Mastering Ethereum - Building Blockchain Service Contracts and Decentralized Apps 
 
-by [Andreas M. Antonopoulos](github.com/aantonop), [Gavin Wood](https://github.com/gavofyork)
+by [Andreas M. Antonopoulos](https://github.com/aantonop), [Gavin Wood](https://github.com/gavofyork)
 
 
 > Note: This is the original source reformatted in a single-page book edition
