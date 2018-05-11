@@ -1,5 +1,5 @@
 
-WORK-IN-PROGRESS / DRAFT
+WORK-IN-PROGRESS / DRAFT - WORK-IN-PROGRESS / DRAFT - WORK-IN-PROGRESS / DRAFT
 
 # Mastering Ethereum - Building Contracts and Decentralized Apps 
 
@@ -8,8 +8,6 @@ by [Andreas M. Antonopoulos](github.com/aantonop), [Gavin Wood](https://github.c
 
 This is the original source reformatted in a single-page book edition (using the [Manuscripts format](http://manuscripts.github.io)).
 
-
-WORK-IN-PROGRESS / DRAFT
 
 - [What is Ethereum?](manuscript/what-is.md)
   - Compared to Bitcoin
