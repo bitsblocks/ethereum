@@ -6,7 +6,9 @@ WORK-IN-PROGRESS / DRAFT - WORK-IN-PROGRESS / DRAFT - WORK-IN-PROGRESS / DRAFT
 by [Andreas M. Antonopoulos](github.com/aantonop), [Gavin Wood](https://github.com/gavofyork)
 
 
-This is the original source reformatted in a single-page book edition (using the [Manuscripts format](http://manuscripts.github.io)).
+> Note: This is the original source reformatted in a single-page book edition
+>  (using the [Manuscripts format](http://manuscripts.github.io)).
+
 
 
 - [What is Ethereum?](manuscript/what-is.md)
