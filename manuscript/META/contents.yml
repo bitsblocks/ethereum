@@ -1,0 +1,67 @@
+######################
+#  Table of Contents
+
+- title: What is Ethereum?
+  path:  manuscript/what-is.md
+  sections:
+  - title: Compared to Bitcoin
+    sections:
+    - title: Components of a blockchain
+  - title: Development of Ethereum
+  - title: The birth of Ethereum
+  - title: Ethereum's four stages of development
+    sections:
+    - title: Past transitions
+    - title: Current state
+    - title: Future plans
+  - title: "Ethereum: A general purpose blockchain"
+  - title: Ethereum's components
+    sections:
+    - title: Further references
+  - title: Ethereum and Turing Completeness
+    sections:
+    - title: Turing Completeness as a "feature"
+    - title: Implications of Turing Completeness
+  - title: From general purpose blockchains to Decentralized Applications (DApps)
+  - title: Evolving the World Wide Web
+  - title: Ethereum's development culture
+  - title: Why learn Ethereum?
+  - title: What this book will teach you?
+
+- title: Tokens
+  path:  manuscript/tokens.md
+  sections:
+  - title: What are tokens?
+  - title: How are tokens used?
+  - title: Tokens and fungibility
+  - title: Counterparty risk
+  - title: Tokens and intrinsicality
+  - title: "Using tokens: utility or equity"
+    sections:
+    - title: It's not a duck
+    - title: "Utility tokens: who needs them?"
+  - title: Token Standards
+    sections:
+    - title: ERC20 Token Standard
+      sections:
+      - title: ERC20 required functions & events
+      - title: ERC20 optional functions
+      - title: The ERC20 interface defined in Solidity
+      - title: ERC20 data structures
+      - title: 'ERC20 workflows: "transfer" and "approve & transferFrom"'
+      - title: ERC20 Implementations
+    - title: Launching our own ERC20 token
+    - title: Interacting with METoken using the truffle console
+    - title: Sending ERC20 tokens to contract addresses
+    - title: Demonstrating the approve & transferFrom workflow
+    - title: Issues with ERC20 tokens
+    - title: ERC223 - a proposed token contract interface standard
+    - title: ERC777 - a proposed token contract interface standard
+    - title: ERC721 - non-fungible token (deed) standard
+  - title: Token standards
+    sections:
+    - title: What are token standards? What is their purpose?
+    - title: Should you use these standards?
+  - title: Security by maturity
+  - title: Extensions to token interface standards
+  - title: Tokens and ICOs

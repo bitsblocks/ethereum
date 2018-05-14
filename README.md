@@ -1,7 +1,7 @@
 
 WORK-IN-PROGRESS / DRAFT - WORK-IN-PROGRESS / DRAFT - WORK-IN-PROGRESS / DRAFT
 
-# Mastering Ethereum - Building Blockchain Service Contracts and Decentralized Apps 
+# Mastering Ethereum - Building Blockchain Service Contracts and Decentralized Apps
 
 by [Andreas M. Antonopoulos](https://github.com/aantonop), [Gavin Wood](https://github.com/gavofyork)
 
@@ -48,20 +48,20 @@ by [Andreas M. Antonopoulos](https://github.com/aantonop), [Gavin Wood](https://
       - [ERC20 data structures](manuscript/tokens.md#erc20-data-structures)
       - [ERC20 workflows: "transfer" and "approve & transferFrom"](manuscript/tokens.md#erc20-workflows-transfer-and-approve--transferfrom)
       - [ERC20 Implementations](manuscript/tokens.md#erc20-implementations)
-  - [Launching our own ERC20 token](manuscript/tokens.md#launching-our-own-erc20-token)
-  - [Interacting with METoken using the truffle console](manuscript/tokens.md#interacting-with-metoken-using-the-truffle-console)
-  - [Sending ERC20 tokens to contract addresses](manuscript/tokens.md#sending-erc20-tokens-to-contract-addresses)
-  - [Demonstrating the approve & transferFrom workflow](manuscript/tokens.md#demonstrating-the-approve--transferfrom-workflow)
-  - [Issues with ERC20 tokens](manuscript/tokens.md#issues-with-erc20-tokens)
-  - [ERC223 - a proposed token contract interface standard](manuscript/tokens.md#erc223---a-proposed-token-contract-interface-standard)
-  - [ERC777 - a proposed token contract interface standard](manuscript/tokens.md#erc777---a-proposed-token-contract-interface-standard)
-  - [ERC721 - non-fungible token (deed) standard](manuscript/tokens.md#erc721---non-fungible-token-deed-standard)
- - [Token standards](manuscript/tokens.md#token-standards-1)
-   - [What are token standards? What is their purpose?](manuscript/tokens.md#what-are-token-standards-what-is-their-purpose)
-   - [Should you use these standards?](manuscript/tokens.md#should-you-use-these-standards)
- - [Security by maturity](manuscript/tokens.md#security-by-maturity)
- - [Extensions to token interface standards](manuscript/tokens.md#extensions-to-token-interface-standards)
- - [Tokens and ICOs](manuscript/tokens.md#tokens-and-icos)
+    - [Launching our own ERC20 token](manuscript/tokens.md#launching-our-own-erc20-token)
+    - [Interacting with METoken using the truffle console](manuscript/tokens.md#interacting-with-metoken-using-the-truffle-console)
+    - [Sending ERC20 tokens to contract addresses](manuscript/tokens.md#sending-erc20-tokens-to-contract-addresses)
+    - [Demonstrating the approve & transferFrom workflow](manuscript/tokens.md#demonstrating-the-approve--transferfrom-workflow)
+    - [Issues with ERC20 tokens](manuscript/tokens.md#issues-with-erc20-tokens)
+    - [ERC223 - a proposed token contract interface standard](manuscript/tokens.md#erc223---a-proposed-token-contract-interface-standard)
+    - [ERC777 - a proposed token contract interface standard](manuscript/tokens.md#erc777---a-proposed-token-contract-interface-standard)
+    - [ERC721 - non-fungible token (deed) standard](manuscript/tokens.md#erc721---non-fungible-token-deed-standard)
+  - [Token standards](manuscript/tokens.md#token-standards-1)
+    - [What are token standards? What is their purpose?](manuscript/tokens.md#what-are-token-standards-what-is-their-purpose)
+    - [Should you use these standards?](manuscript/tokens.md#should-you-use-these-standards)
+  - [Security by maturity](manuscript/tokens.md#security-by-maturity)
+  - [Extensions to token interface standards](manuscript/tokens.md#extensions-to-token-interface-standards)
+  - [Tokens and ICOs](manuscript/tokens.md#tokens-and-icos)
 
 
 
